@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Website OchoBotz
 
 You can use the [editor on GitHub](https://github.com/OchoBotz/AchelL.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. Number
 2. List
 
 **Bold** and _Italic_ and `Code` text
